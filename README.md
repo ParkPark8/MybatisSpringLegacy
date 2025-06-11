@@ -4,7 +4,7 @@
 
 
 
-# ✅ 1. `RootConfig.java` – 루트 애플리케이션 설정 (비즈니스 로직, DB 설정 등)
+#  1. `RootConfig.java` – 루트 애플리케이션 설정 (비즈니스 로직, DB 설정 등)
 
 ```java
 @Configuration
