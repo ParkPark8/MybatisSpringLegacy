@@ -12,7 +12,7 @@
 @MapperScan(basePackages = {})
 ```
 
-### 💡 클래스의 역할
+### 💡 클래스 역할
 
 * **Spring의 루트 컨텍스트 설정 클래스**로서, DB 연결, 트랜잭션 처리, MyBatis 설정 등을 담당
 * DispatcherServlet에 의해 로딩되는 서블릿 컨텍스트와는 별도로, **비즈니스 로직 관련 설정**을 포함
